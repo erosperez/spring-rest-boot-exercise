@@ -1,1 +1,0 @@
-Proyecto de ejemplo de tests de integración de un servicio REST usando REST-Assured, creado para el post: https://anotherdayanotherbug.wordpress.com/2015/05/25/tests-de-integracion-usando-rest-assured/

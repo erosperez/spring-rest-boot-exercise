@@ -1,2 +1,0 @@
-Ejemplo de test de integración en un proyecto Spring Boot, creado para el cuarto post de la serie Spring Boot:
-https://anotherdayanotherbug.wordpress.com/2015/02/04/spring-boot-series-como-configurar-tus-tests-de-integracion/

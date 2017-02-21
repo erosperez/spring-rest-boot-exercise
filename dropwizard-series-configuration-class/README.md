@@ -1,1 +1,0 @@
-Ejemplo de configuración de Dropwizard, para el post: http://anotherdayanotherbug.wordpress.com/2016/07/12/dropwizard-series-clase-configuration/

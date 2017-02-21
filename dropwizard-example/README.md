@@ -1,1 +1,0 @@
-POC con Dropwizard, creado para el post https://anotherdayanotherbug.wordpress.com/2016/05/31/poc-con-dropwizard/
