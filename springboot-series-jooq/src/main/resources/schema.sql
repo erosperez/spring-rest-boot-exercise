@@ -1,0 +1,1 @@
+create table book_character (id integer primary key, name varchar(30));
